@@ -1,0 +1,7 @@
+/LocationData
+/*.zip
+/target/
+/.vscode
+/.classpath
+/.settings/
+/bash.exe.stackdump
